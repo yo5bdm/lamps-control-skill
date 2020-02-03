@@ -2,7 +2,7 @@
 Turns lamps on and off
 
 ## About
-Turns lamps on and off
+I wrote this skill as I wanted to start playing with what a raspberry pi has to offer, all in picroft
 
 ## Examples
 * "Turn on lamp"
